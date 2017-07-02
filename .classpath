@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/cloudsim"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="cloudsim-3.0.3"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Vishal/workspace_mapreduce/mapreduce/external_jars/apache-commons.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Vishal/workspace_mapreduce/mapreduce/external_jars/commons-configuration-1.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Vishal/workspace_mapreduce/mapreduce/external_jars/org.jenetics-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vishal/workspace_mapreduce/mapreduce/external_jars/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vishal/workspace_mapreduce/mapreduce/external_jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vishal/workspace_mapreduce/mapreduce/external_jars/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vishal/workspace_mapreduce/mapreduce/external_jars/slf4j-api-2.0.99.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vishal/workspace_mapreduce/mapreduce/external_jars/slf4j-simple-1.6.99.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Poison/Dropbox/Final Year/cloudsim-3.0.3/jars/cloudsim-3.0.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

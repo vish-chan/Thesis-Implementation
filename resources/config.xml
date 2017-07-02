@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- config.xml -->
+<config>
+    <configurations>
+        <configuration>
+            <numusers>1</numusers>
+            <numdatacenters>4</numdatacenters>
+            <numreserved>0</numreserved>
+            <numondemand>1000</numondemand>
+            <numspot>1000</numspot>
+			<inputfilename>job_data_1</inputfilename>
+        </configuration>
+        <configuration>
+            <numusers>1</numusers>
+            <numdatacenters>4</numdatacenters>
+            <numreserved>0</numreserved>
+            <numondemand>3000</numondemand>
+            <numspot>3000</numspot>
+			<inputfilename>job_data_2</inputfilename>
+        </configuration>
+		<configuration>
+            <numusers>1</numusers>
+            <numdatacenters>10</numdatacenters>
+            <numreserved>0</numreserved>
+            <numondemand>10000</numondemand>
+            <numspot>10000</numspot>
+			<inputfilename>job_data_3</inputfilename>
+        </configuration>
+	</configurations>
+	<User>
+		<Scheduler>1</Scheduler>
+		<VmAllocationPolicy>1</VmAllocationPolicy>
+	</User>
+	<Production>
+		<Scheduler>1</Scheduler>
+		<Share>200</Share>
+		<Filename>production_data_file</Filename>
+	</Production>
+</config>

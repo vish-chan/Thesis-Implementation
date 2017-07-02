@@ -1,0 +1,11 @@
+Configuration number: 1
+VM allocation policy: Hybrid
+Number of user jobs:1001
+User scheduler: MDASA
+Number of production jobs:6
+Production Scheduler: Johnson
+Total number of tardy jobs: 179
+Percentage of tardy jobs: 17.882117882117882
+Total cost of Vms for user jobs in $: 169.5388000000049
+Number of production Vms: 200
+Makespan for production jobs in seconds: 1283.0
