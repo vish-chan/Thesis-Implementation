@@ -1,2 +1,2 @@
 # Thesis-Implementation
-Implementation of a deadline aware scheduler and make-span aware scheduler for MapReduce Jobs. Implementation uses Cloudsim simulator for creating MapReduce jobs and Virtual Machines.
+A novel deadline aware scheduling algorithm for MapReduce jobs running on Amazon EC2 based cloud infrastructure. Also, minimised the cost of operation by intelligently deploying Spot instances. The implementation used Cloudsim framework for MapReduce environment simulation. Prices of spot instances were predicted via time series analysis using R. Evaluation of scheduling algorithm was done using traces of two sets of Facebook Hadoop jobs workloads.
